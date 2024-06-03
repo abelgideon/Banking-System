@@ -74,7 +74,7 @@ Run the compiled program:
 
 ## File Structure
 
-- main.cpp: The main source file containing all the functionalities.
+- bankingSystem.cpp: The main source file containing all the functionalities.
 - usernames.txt: Stores usernames.
 - passwords.txt: Stores passwords.
 - balances.txt: Stores user balances.
