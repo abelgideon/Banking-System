@@ -88,7 +88,7 @@ Run the compiled program:
 2. Login
 3. Admin Login
 4. Exit
->> 1
+`>>` 1
 Enter username: user1
 Enter password: pass1
 
@@ -101,7 +101,7 @@ Account Created!
 2. Login
 3. Admin Login
 4. Exit
->> 2
+`>>` 2
 Enter username: user1
 Enter password: pass1
 
@@ -115,7 +115,7 @@ Logged in!
 5. Update Account
 6. Delete Account
 7. Log out
->> 1
+`>>` 1
 
 Your balance is 0 birr
 
