@@ -25,25 +25,25 @@ This is a simple console-based Banking System developed as a final project for t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/banking-system.git
+    git clone https://github.com/abelgideon/Banking-System.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd banking-system
+    cd Banking-System
     ```
 
 ### Compilation
 
 Compile the project using a C++ compiler:
 ```sh
-g++ -o banking_system main.cpp
+g++ -o bankingSystem bankingSystem.cpp
 ```
 
 ## Running
 
 Run the compiled program:
 ```sh
-./banking_system
+./bankingSystem
 ```
 
 ## Usage
