@@ -115,6 +115,7 @@ Logged in!
 5. Update Account
 6. Delete Account
 7. Log out
+
 \>\> 1
 
 Your balance is 0 birr
