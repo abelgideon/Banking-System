@@ -39,7 +39,7 @@ Compile the project using a C++ compiler:
 g++ -o bankingSystem bankingSystem.cpp
 ```
 
-## Running
+### Running
 
 Run the compiled program:
 ```sh
