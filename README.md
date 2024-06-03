@@ -90,7 +90,9 @@ Run the compiled program:
 4. Exit
 
 \>\> 1
+
 Enter username: user1
+
 Enter password: pass1
 
 Account Created!
@@ -104,7 +106,9 @@ Account Created!
 4. Exit
 
 \>\> 2
+
 Enter username: user1
+
 Enter password: pass1
 
 Logged in!
